@@ -1,0 +1,76 @@
+# *********  Ignore all compiled sources ***********##
+*.com
+*.class
+*.dll
+*.exe
+*.o
+*.so
+
+# ************* Ignore all packages *****************#
+*.7z
+*.dmg
+*.gz
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+
+# **************** Ignore all logs and databases  ****#
+*.log
+*.sql
+*.sqlite
+
+# **************** Ignore all OS generated files ***#
+.DS_Store
+.DS_store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# *************** Ignore all Images ***************#
+*.jpg
+*.gif
+*.png
+*.svg
+*.jpeg
+*.bmp
+*.psd
+*.ico
+
+# *************** Ignore all videos ***************##
+*.wmv
+*.mpg
+*.mpeg
+*.mp4
+*.mov
+*.flv
+*.avi
+*.ogv
+*.ogg
+*.webm
+
+# **************** Ignore all audio files **************###
+*.wav
+*.mp3
+*.wma
+
+
+# ************** Ignore unnecessary fonts ************####
+*.eot
+*.ttf
+*.woff
+
+# ************* Ignore backup files from text editors ***#
+**/*~
+
+# ************* Ignore IDE related files ****************#
+.classpath
+.project
+.settings
+.idea
+.metadata
+*.iml
+*.ipr
